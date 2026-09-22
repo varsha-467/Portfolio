@@ -76,7 +76,7 @@ export function Hero() {
                 <ArrowDown className="h-3.5 w-3.5 transition-transform group-hover:translate-y-0.5" />
               </a>
               <a
-                href="/Varshini.T.G.pdf"
+                href="/resume.pdf"
                 download
                 className="flex items-center gap-2 rounded-xl border px-5 py-3 text-sm font-semibold transition-all hover:scale-105"
                 style={{ borderColor: 'var(--border)', background: 'var(--bg-elevated)', color: 'var(--text)' }}
