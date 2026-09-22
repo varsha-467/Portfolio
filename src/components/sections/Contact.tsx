@@ -99,7 +99,7 @@ export function Contact() {
                 </div>
                 <div>
                   <div className="text-xs font-medium uppercase tracking-wider" style={{ color: 'var(--text-muted)' }}>Location</div>
-                  <div className="text-sm font-medium" style={{ color: 'var(--text)' }}>Karnataka, India</div>
+                  <div className="text-sm font-medium" style={{ color: 'var(--text)' }}>Bengaluru, Karnataka, India</div>
                 </div>
               </div>
             </div>
